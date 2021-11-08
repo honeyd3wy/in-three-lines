@@ -6,3 +6,4 @@
 - [KoBART](https://github.com/SKT-AI/KoBART)
 - [Text Summarization Repo](https://github.com/uoneway/Text-Summarization-Repo#pre-trained-models)
 - [ainize - kobart-news](https://huggingface.co/ainize/kobart-news)
+- [KoBART-summarization](https://github.com/seujung/KoBART-summarization)
